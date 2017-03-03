@@ -8,7 +8,7 @@ I'm mainly interested in Web technologies, but also not limited to it.
 
 ## Skills
   * Front end
-    * JavaScript (JQuery, AngularJS, Cordova for mobile app dev)
+    * JavaScript (jQuery, AngularJS, Cordova for mobile app dev)
     * HTML and CSS (Material Design)
   * Back end
     * PHP
@@ -17,3 +17,6 @@ I'm mainly interested in Web technologies, but also not limited to it.
   * Database
     * SQL (Oracle, MySQL)
     * NoSQL (Firebase)
+ 
+[Stack Overflow](http://stackoverflow.com/users/5045104/rax-weber)
+[LinkedIn](https://www.linkedin.com/in/rax-layumas/)
