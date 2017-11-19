@@ -1,22 +1,23 @@
 
 # Profile-Info
-This is my first repository and contains some information about myself.
+This repository contains some information about myself.
 
 My name is Rax Canaan Weber Layumas and I live in the Philippines.
-I'm a computer engineer and an enthusiastic programmer.
+I graduated with a degree in computer engineering and now work as a software engineer.
 I'm mainly interested in Web technologies, but also not limited to it.
 
 ## Skills
   * Front end
-    * JavaScript (jQuery, AngularJS, Cordova for mobile app dev)
-    * HTML and CSS (Material Design)
+    * JavaScript (Angular, jQuery, Ionic for mobile app dev)
+    * HTML5 and CSS3 (also Sass/Scss)
   * Back end
+    * Node.js
     * PHP
-    * JavaScript (Node.js)
-    * Java
+    * Java (Spring)
   * Database
     * SQL (Oracle, MySQL)
     * NoSQL (Firebase)
- 
-[Stack Overflow](http://stackoverflow.com/users/5045104/rax-weber)
-[LinkedIn](https://www.linkedin.com/in/rax-layumas/)
+
+### Links
+  * [Stack Overflow](http://stackoverflow.com/users/5045104/rax-weber)
+  * [LinkedIn](https://www.linkedin.com/in/rax-layumas/)
